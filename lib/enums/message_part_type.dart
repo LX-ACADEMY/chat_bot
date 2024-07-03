@@ -1,0 +1,4 @@
+enum MessagePartType {
+  normal,
+  bold,
+}
